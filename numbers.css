@@ -1,0 +1,24 @@
+button {
+     margin-left: 80px;
+}
+a {
+     text-decoration: none;
+     color: black;
+     font-weight: 500;
+     font-size: 20px;
+     margin-left: 880px;
+     margin-top: 80px;
+}
+.result {
+     width: 200px;
+     height: 40px;
+     border: 1px solid black;
+     margin-left: 60px;
+}
+.type_password {
+     display: flex;
+     flex-direction: column;
+     div {
+          flex-direction: row;
+     }
+}
